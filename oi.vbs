@@ -1,0 +1,6 @@
+x=msgbox("Can i get a kiss?", 0+32, "can i?")
+x=msgbox("And can u make it last forever?", 0+64, "diz q sim")
+x=msgbox("i said i'm 'bout to go war", 0+48, "cuidado :0")
+x=msgbox("And i don't know if i'ma see u again :(", 0+16, "plss")
+x=msgbox("Can i get a kiss?", 4, "diz que sim diz que sim ^^")
+x=msgbox("MWWNAAA BJO GOSTOSO", 0, "XoX")
